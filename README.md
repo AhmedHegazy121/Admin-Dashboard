@@ -3,7 +3,7 @@
 A modern, high-performance data visualization and business analytics dashboard built with React. This responsive interface features real-time metric tracking, advanced data visualization tables, global traffic heatmaps, and custom data forms optimized for modern enterprise applications.
 
 ## 🚀 Live Demo
-[👉 Click here to view the live project](https://admin-dashboard-gray-chi.vercel.app/team)
+[👉 Click here to view the live project](https://admin-dashboard-gray-chi.vercel.app/)
 
 ---
 <div align="center" style="margin: 25px 0; max-width: 800px; margin-left: auto; margin-right: auto;">
