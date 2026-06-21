@@ -1,7 +1,7 @@
 import { Box, Button, IconButton, Typography, useTheme } from "@mui/material";
-import { tokens } from "../../theme.jsx";
+import { tokens } from "../../Theme.jsx";
 import Header from "../../Components/Header.jsx";
-import { mockTransactions } from "../../data/mockData.jsx";
+import { mockTransactions } from "../../Data/mockData.jsx";
 import DownloadOutlinedIcon from "@mui/icons-material/DownloadOutlined";
 import EmailIcon from "@mui/icons-material/Email";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";

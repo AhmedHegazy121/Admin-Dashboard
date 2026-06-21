@@ -1,7 +1,7 @@
 import { useTheme, Box, Typography, Paper } from "@mui/material";
-import { tokens } from "../theme";
+import { tokens } from "../Theme";
 import { ResponsiveBar } from "@nivo/bar";
-import { mockBarData as data } from "../data/mockData";
+import { mockBarData as data } from "../Data/mockData";
 
 const BarChart = ({ isDashboard = false }) => {
   const theme = useTheme();
