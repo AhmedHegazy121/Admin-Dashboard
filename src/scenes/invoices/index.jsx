@@ -1,7 +1,6 @@
 import { Box, useTheme, Typography } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
 import { useMemo } from "react";
-
 import Header from "../../Components/Header";
 import { tokens } from "../../theme";
 import { mockDataInvoices } from "../../data/mockData";

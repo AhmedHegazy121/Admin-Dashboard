@@ -2,7 +2,8 @@ import { Box, useTheme } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
 import { useMemo } from "react";
 
-import Header from "../../components/Header";
+import Header from "../../Components/Header";
+
 import { tokens } from "../../theme";
 import { mockDataContacts } from "../../data/mockData";
 

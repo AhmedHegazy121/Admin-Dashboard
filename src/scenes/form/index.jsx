@@ -2,7 +2,7 @@ import { Box, Button, TextField } from "@mui/material";
 import { Formik, Form, useField } from "formik";
 import * as yup from "yup";
 import useMediaQuery from "@mui/material/useMediaQuery";
-import Header from "../../components/Header";
+import Header from "../../Components/Header";
 
 // 1. Setup initial form values
 const initialValues = {
