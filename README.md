@@ -144,11 +144,7 @@ Ensure you have **Node.js** (v18 or higher recommended) and **npm** installed.
 
 ---
 
-## 📸 Application Preview
 
-![Dashboard View](https://githubusercontent.com)
-
----
 
 ## 📄 License
 This project is open-source and available under the **MIT License**.
