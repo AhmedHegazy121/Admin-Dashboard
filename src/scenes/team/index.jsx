@@ -1,8 +1,8 @@
 import { Box, Typography, useTheme } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
 import { useMemo } from "react";
-import { tokens } from "../../Theme.jsx";
-import { mockDataTeam } from "../../Data/mockData.jsx";
+import { tokens } from "../../theme.jsx";
+import { mockDataTeam } from "../../data/mockData.jsx";
 import AdminPanelSettingsOutlinedIcon from "@mui/icons-material/AdminPanelSettingsOutlined";
 import LockOpenOutlinedIcon from "@mui/icons-material/LockOpenOutlined";
 import SecurityOutlinedIcon from "@mui/icons-material/SecurityOutlined";

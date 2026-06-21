@@ -3,8 +3,8 @@ import { DataGrid } from "@mui/x-data-grid";
 import { useMemo } from "react";
 
 import Header from "../../Components/Header";
-import { tokens } from "../../Theme";
-import { mockDataInvoices } from "../../Data/mockData";
+import { tokens } from "../../theme";
+import { mockDataInvoices } from "../../data/mockData";
 
 const Invoices = () => {
   const theme = useTheme();
